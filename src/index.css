@@ -1,0 +1,40 @@
+.wrap {
+    background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);
+    display: flex;
+    flex-direction: column;
+    color:mediumvioletred;
+    border: 15px solid #FF69B4;
+    padding: 50px;
+    margin: 20px;
+}
+
+.header {
+    height: 126px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+   
+  
+}
+
+.image {
+    width: 50%;
+    height: 210px;
+    color: #ff6a00;
+    width: 300px;
+    border: 15px solid #FF1493;
+    padding: 50px;
+    margin: 20px;
+}
+
+body {
+    background: linear-gradient(to left, #33ccff 0%, #ff99cc 100%);
+}
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
